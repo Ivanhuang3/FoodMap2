@@ -5,7 +5,7 @@
 ## 專案概述 📖
 FoodMAP2 是一個基於 Spring Boot 的美食地圖應用程式，提供餐廳搜尋、評論和用戶管理功能，旨在為用戶打造個人化的美食探索體驗。
 
-## 技術棧 ⚙️
+### 技術棧 ⚙️
 - **後端框架**: Spring Boot 3.2.3
 - **資料庫**: H2 (開發環境)
 - **安全框架**: Spring Security + JWT
@@ -163,24 +163,21 @@ src/main/resources/
 
 ### 啟動步驟
 1. 克隆專案
-```bash
-git clone [repository-url]
-cd FoodMAP2
-```
-
+   ```bash
+   git clone [repository-url]
+   cd FoodMAP2
+   ```
 2. 編譯專案
-```bash
-mvn clean compile
-```
-
+   ```bash
+   mvn clean compile
+   ```
 3. 啟動應用程式
-```bash
-mvn spring-boot:run
-```
-
+   ```bash
+   mvn spring-boot:run
+   ```
 4. 訪問應用程式
-- 首頁: http://localhost:8080
-- H2資料庫控制台: http://localhost:8080/h2-console
+   - 首頁: http://localhost:8080
+   - H2資料庫控制台: http://localhost:8080/h2-console
 
 ## API文檔 📜
 
@@ -244,5 +241,3 @@ kubectl apply -f deploy/kubernetes/
 ```
 
 ---
-
-
