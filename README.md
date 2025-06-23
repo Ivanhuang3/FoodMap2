@@ -261,6 +261,6 @@ Fork專案
 本專案採用 MIT 授權條款 - 詳見 LICENSE 檔案
 聯絡資訊 📧
 
-專案維護者: [Ivan Huang]
-電子郵件: [saucyking3@gmail.com]
-專案連結: https://github.com/Ivanhuang3/foodmap2
+專案維護者: [Your Name]
+電子郵件: [your.email@example.com]
+專案連結: https://github.com/yourusername/foodmap2
